@@ -202,3 +202,4 @@ find -name footer.jpeg
 mv images/footer.jpeg client/assets/images
 find images
 find
+rmdir images
