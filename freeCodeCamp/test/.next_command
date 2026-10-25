@@ -268,3 +268,5 @@ rm README.md
 touch README.md
 echo I made this boilerplate >> README.md
 more README.md
+clear
+echo from the command line >> README.md
