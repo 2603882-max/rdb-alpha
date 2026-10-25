@@ -216,3 +216,7 @@ rm
 rm website/images
 rm images
 rm background.jpg
+cd..
+cd ..
+clear
+rmdir images
