@@ -220,3 +220,4 @@ cd..
 cd ..
 clear
 rmdir images
+ls --color=auto
