@@ -73,3 +73,9 @@ cd ..
 cd ../..
 ls --color=auto
 clear
+mkdir websit
+ls --color=auto
+rm websit
+rm websit -r
+ls --color=auto
+mkdir website
