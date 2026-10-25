@@ -179,3 +179,20 @@ mv header.png client/assets/images
 ls --color=auto
 find client
 find -name images
+ls --color=auto ./client/assets/images
+mv header.png ..
+cd ./client/assets/images
+ls --color=auto
+mv header.png ..
+cd ../../..
+ls --color=auto
+find client
+cd client/assets
+ls --color=auto
+mv header.png ../..
+cd ../..
+ls --color=auto
+clear
+ls --color=auto
+find -name images
+mv header.png client/assets/images
