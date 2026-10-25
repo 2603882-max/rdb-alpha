@@ -80,3 +80,4 @@ rm websit -r
 ls --color=auto
 mkdir website
 ls --color=auto
+cd website
