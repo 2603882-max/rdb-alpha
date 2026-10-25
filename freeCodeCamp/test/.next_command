@@ -263,3 +263,7 @@ ech Yay!
 echo Yay!
 echo I finished the boilerplate!
 echo one more thing...
+echo Imade this boilerplate >> README.md
+rm README.md
+touch README.md
+echo I made this boilerplate >> README.md
