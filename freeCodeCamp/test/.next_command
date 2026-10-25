@@ -280,3 +280,4 @@ ls --color=auto
 cp --help
 ls --color=auto
 cp website-boilerplate toms-website -r
+ls --color=auto
