@@ -203,3 +203,16 @@ mv images/footer.jpeg client/assets/images
 find images
 find
 rmdir images
+find images
+find background.jpg
+rm image/background.jpg
+ls --color=auto
+find images
+rm background.jpg
+cd images
+ls --color=auto
+mv background.jpg client/assets/images
+rm
+rm website/images
+rm images
+rm background.jpg
