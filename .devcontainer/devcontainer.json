@@ -1,7 +1,7 @@
 {
   "name": "RDB Alpha",
   "dockerFile": "../Dockerfile",
-  "workspaceFolder": "/workspace/project",
+  "workspaceFolder": "/workspace/rdb-alpha",
   "customizations": {
     "vscode": {
       "extensions": [
